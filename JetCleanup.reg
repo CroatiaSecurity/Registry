@@ -1,4 +1,4 @@
-﻿Windows Registry Editor Version 5.00
+Windows Registry Editor Version 5.00
 
 [HKEY_CURRENT_USER\AppEvents\Schemes]
 "packagebase"=-
@@ -859,5 +859,3 @@ A8,1C,AA,86,1B,F7,DB,01
 [-HKEY_USERS\.DEFAULT\System\GameConfigStore\Children]
 
 [-HKEY_USERS\.DEFAULT\System\GameConfigStore\Parents]
-=======
->>>>>>> 3c479efe17479d82471b0fc670d9eb43f01e5740

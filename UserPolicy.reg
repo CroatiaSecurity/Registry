@@ -1,4 +1,4 @@
-﻿Windows Registry Editor Version 5.00
+Windows Registry Editor Version 5.00
 
 [HKEY_CURRENT_USER\keycupoliciesmsvbasecurity]
 "loadcontrolsinforms"=-
@@ -810,5 +810,3 @@
 [HKEY_CURRENT_USER\software\policies\microsoft\WindowsMediaPlayer]
 "PreventCodecDownload"=dword:00000001
 
-=======
->>>>>>> 3c479efe17479d82471b0fc670d9eb43f01e5740

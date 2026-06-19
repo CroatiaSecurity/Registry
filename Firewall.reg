@@ -1,4 +1,4 @@
-﻿Windows Registry Editor Version 5.00
+Windows Registry Editor Version 5.00
 
 ; Firewall
 
@@ -7491,5 +7491,3 @@
 "{443d5880-62fe-4bbc-9d88-86234e83f271}"="v2.33|Action=Block|Active=TRUE|Dir=In|RA4=13.89.125.20|Name=Block Malware IP (Inbound) - 13.89.125.20|"
 "{c49cdbd6-32f2-44cb-b619-355d8c56ee76}"="v2.33|Action=Block|Active=TRUE|Dir=Out|RA4=13.89.125.20|Name=Block Malware IP (Outbound) - 13.89.125.20|"
 
-=======
->>>>>>> 3c479efe17479d82471b0fc670d9eb43f01e5740

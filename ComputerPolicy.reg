@@ -1,4 +1,4 @@
-﻿Windows Registry Editor Version 5.00
+Windows Registry Editor Version 5.00
 
 [HKEY_LOCAL_MACHINE\SOFTWARE\Adobe\Acrobat Reader\DC\Installer]
 "DisableMaintenance"=dword:00000001
@@ -1205,5 +1205,3 @@ https://outlook.office.com/owa/SmimeCrxUpdate.ashx"
 [HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\Tcpip6\Parameters]
 "DisableIPSourceRouting"=dword:00000002
 
-=======
->>>>>>> 3c479efe17479d82471b0fc670d9eb43f01e5740

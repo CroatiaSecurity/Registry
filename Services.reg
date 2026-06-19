@@ -1,4 +1,4 @@
-﻿Windows Registry Editor Version 5.00
+Windows Registry Editor Version 5.00
 
 [HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\1394ohci]
 "SvcHostSplitDisable"=dword:00000001
@@ -2151,5 +2151,3 @@
 [HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\xmlprov]
 "SvcHostSplitDisable"=dword:00000001
 
-=======
->>>>>>> 3c479efe17479d82471b0fc670d9eb43f01e5740

@@ -1,4 +1,4 @@
-﻿Windows Registry Editor Version 5.00
+Windows Registry Editor Version 5.00
 
 ; Ceprkac Ad Blocker - Persistent Routes
 ; Generated: 2026-04-24 11:48:59
@@ -502,5 +502,3 @@
 "99.84.152.26,255.255.255.255,0.0.0.0,1"=""
 "99.84.152.57,255.255.255.255,0.0.0.0,1"=""
 "99.84.152.66,255.255.255.255,0.0.0.0,1"=""
-=======
->>>>>>> 3c479efe17479d82471b0fc670d9eb43f01e5740
